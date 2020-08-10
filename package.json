@@ -1,0 +1,19 @@
+{
+  "name": "defi_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "gregory@dappuniversity.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dapp_univeristy/defi_intro.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.2.11"
+  }
+}
